@@ -14,3 +14,6 @@ This is a Flask server implementation that allows users to generate fake images 
 
 > python app.py
 
+# todo
+
+make wapper adding ig, fb
